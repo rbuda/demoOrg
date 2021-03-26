@@ -238,31 +238,6 @@
             <sortOrder>10</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
-            <actionName>FeedItem.QuestionPost</actionName>
-            <actionType>QuickAction</actionType>
-            <sortOrder>11</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>SendEmail</actionName>
-            <actionType>QuickAction</actionType>
-            <sortOrder>12</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>IncludeOffline</actionName>
-            <actionType>StandardButton</actionType>
-            <sortOrder>13</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>Edit</actionName>
-            <actionType>StandardButton</actionType>
-            <sortOrder>14</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>ChangeOwnerOne</actionName>
-            <actionType>StandardButton</actionType>
-            <sortOrder>15</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
             <actionName>AccountHierarchy</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>16</sortOrder>
@@ -286,6 +261,31 @@
             <actionName>ChangeRecordType</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>20</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>FeedItem.QuestionPost</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>11</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>SendEmail</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>12</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>IncludeOffline</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>13</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>Edit</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>14</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>ChangeOwnerOne</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>15</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>XClean</actionName>

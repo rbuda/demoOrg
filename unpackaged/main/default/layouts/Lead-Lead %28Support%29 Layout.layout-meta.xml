@@ -161,11 +161,6 @@
             <sortOrder>2</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
-            <actionName>LogACall</actionName>
-            <actionType>QuickAction</actionType>
-            <sortOrder>3</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
             <actionName>NewCase</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>4</sortOrder>
@@ -251,6 +246,16 @@
             <sortOrder>20</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
+            <actionName>LogACall</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>3</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>CallHighlightAction</actionName>
+            <actionType>ProductivityAction</actionType>
+            <sortOrder>21</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionName>SmsHighlightAction</actionName>
             <actionType>ProductivityAction</actionType>
             <sortOrder>22</sortOrder>
@@ -259,11 +264,6 @@
             <actionName>EmailHighlightAction</actionName>
             <actionType>ProductivityAction</actionType>
             <sortOrder>23</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>CallHighlightAction</actionName>
-            <actionType>ProductivityAction</actionType>
-            <sortOrder>21</sortOrder>
         </platformActionListItems>
     </platformActionList>
     <quickActionList>
