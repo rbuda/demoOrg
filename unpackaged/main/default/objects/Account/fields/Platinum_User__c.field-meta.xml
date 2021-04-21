@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Platinum_User__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Does this customer have our platinum level support?</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Check if user needs platinum level support and uncheck if they do not.</inlineHelpText>
+    <label>Platinum User</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Checkbox</type>
+</CustomField>

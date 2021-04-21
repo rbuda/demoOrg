@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Description_Mandate</fullName>
+    <active>true</active>
+    <description>Description field of Account must be populated</description>
+    <errorConditionFormula>ISBLANK(Description)</errorConditionFormula>
+    <errorMessage>Description needs to be populated</errorMessage>
+</ValidationRule>
